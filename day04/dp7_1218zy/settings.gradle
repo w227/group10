@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='dp7_12-18-zy'
