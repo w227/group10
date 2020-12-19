@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <SearchView
+                android:id="@+id/sv_search"
+                android:layout_width="@dimen/dp_300"
+                android:layout_height="@dimen/dp_38"
+                android:layout_marginLeft="@dimen/dp_25"
+                android:background="@drawable/shape_bg_search"
+                android:iconifiedByDefault="false"
+                android:queryHint="搜索诗人名字 诗歌关键词"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/ic_lingdang"
+                android:layout_width="@dimen/dp_70"
+                android:layout_height="@dimen/dp_30"
+                android:src="@drawable/youxi"
+                app:layout_constraintBottom_toBottomOf="@id/sv_search"
+                app:layout_constraintLeft_toRightOf="@id/sv_search"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/iv_banner"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_150"
+                android:layout_marginTop="@dimen/dp_10"
+                android:scaleType="fitXY"
+                android:src="@mipmap/ic_launcher"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/sv_search" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cl_recommend"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_95"
+                android:layout_marginTop="@dimen/dp_10"
+                android:paddingTop="@dimen/dp_10"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/iv_banner">
+
+                <ImageView
+                    android:id="@+id/iv_pei1"
+                    android:layout_width="@dimen/dp_45"
+                    android:layout_height="@dimen/dp_45"
+                    android:src="@drawable/qei1"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toLeftOf="@id/iv_pei2"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="每日推荐"
+                    app:layout_constraintLeft_toLeftOf="@id/iv_pei1"
+                    app:layout_constraintRight_toRightOf="@id/iv_pei1"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pei1" />
+
+                <ImageView
+                    android:id="@+id/iv_pei2"
+                    android:layout_width="@dimen/dp_45"
+                    android:layout_height="@dimen/dp_45"
+                    android:src="@drawable/pei2"
+                    app:layout_constraintLeft_toRightOf="@id/iv_pei1"
+                    app:layout_constraintRight_toLeftOf="@id/iv_pei3"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="飞花令"
+                    app:layout_constraintLeft_toLeftOf="@id/iv_pei2"
+                    app:layout_constraintRight_toRightOf="@id/iv_pei2"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pei2" />
+
+                <ImageView
+                    android:id="@+id/iv_pei3"
+                    android:layout_width="@dimen/dp_45"
+                    android:layout_height="@dimen/dp_45"
+                    android:src="@drawable/pei3"
+                    app:layout_constraintLeft_toRightOf="@id/iv_pei2"
+                    app:layout_constraintRight_toLeftOf="@id/iv_pei4"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="诗歌社群"
+                    app:layout_constraintLeft_toLeftOf="@id/iv_pei3"
+                    app:layout_constraintRight_toRightOf="@id/iv_pei3"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pei3" />
+
+                <ImageView
+                    android:id="@+id/iv_pei4"
+                    android:layout_width="@dimen/dp_45"
+                    android:layout_height="@dimen/dp_45"
+                    android:src="@drawable/pei3"
+                    app:layout_constraintLeft_toRightOf="@id/iv_pei3"
+                    app:layout_constraintRight_toLeftOf="@id/iv_pei5"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="排行榜"
+                    app:layout_constraintLeft_toLeftOf="@id/iv_pei4"
+                    app:layout_constraintRight_toRightOf="@id/iv_pei4"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pei4" />
+
+                <ImageView
+                    android:id="@+id/iv_pei5"
+                    android:layout_width="@dimen/dp_45"
+                    android:layout_height="@dimen/dp_45"
+                    android:src="@drawable/pei5"
+                    app:layout_constraintLeft_toRightOf="@id/iv_pei4"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="会员专区"
+                    app:layout_constraintLeft_toLeftOf="@id/iv_pei5"
+                    app:layout_constraintRight_toRightOf="@id/iv_pei5"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pei5" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cl_pk"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_300"
+                android:layout_marginTop="@dimen/dp_10"
+                android:paddingHorizontal="@dimen/dp_10"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/cl_recommend">
+
+                <TextView
+                    android:id="@+id/tv_pk"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="诗歌群PK"
+                    android:textColor="#000000"
+                    android:textSize="@dimen/sp_20"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_data_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:layout_marginRight="@dimen/dp_84"
+                    android:text="08_01"
+                    android:textColor="#3DB09E"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_data_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="日晚"
+                    app:layout_constraintLeft_toRightOf="@id/tv_data_1"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_data_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:layout_marginRight="@dimen/dp_84"
+                    android:text="8:00"
+                    android:textColor="#3DB09E"
+                    app:layout_constraintLeft_toRightOf="@id/tv_data_2"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_data_4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="开始"
+                    app:layout_constraintLeft_toRightOf="@id/tv_data_3"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/iv_pk"
+                    android:layout_width="@dimen/dp_340"
+                    android:layout_height="@dimen/dp_170"
+                    android:layout_marginTop="@dimen/dp_20"
+                    android:src="@drawable/ic_pk"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/tv_pk" />
+
+                <Button
+                    android:id="@+id/btn_community_ding"
+                    android:layout_width="@dimen/dp_75"
+                    android:layout_height="@dimen/dp_30"
+                    android:layout_marginLeft="@dimen/dp_30"
+                    android:background="@drawable/shape_bg_ding"
+                    android:text="丁香诗团"
+                    android:textColor="#f0f0f0"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pk" />
+
+                <Button
+                    android:id="@+id/btn_community_yue"
+                    android:layout_width="@dimen/dp_75"
+                    android:layout_height="@dimen/dp_30"
+                    android:layout_marginRight="@dimen/dp_30"
+                    android:background="@drawable/shape_bg_yue"
+                    android:text="月季诗团"
+                    android:textColor="#f0f0f0"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/iv_pk" />
+
+                <TextView
+                    android:id="@+id/tv_pk_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="这两个社团你更看好谁"
+                    android:textColor="#000000"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/btn_community_ding" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cl_poet"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_254"
+                android:layout_marginTop="@dimen/dp_10"
+                android:paddingHorizontal="@dimen/dp_25"
+                app:layout_constraintTop_toBottomOf="@id/cl_pk">
+
+                <TextView
+                    android:id="@+id/tv_poet"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="荣誉诗人"
+                    android:textColor="#000000"
+                    android:textSize="@dimen/sp_20"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_more"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:layout_marginRight="@dimen/dp_10"
+                    android:text="更多"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:layout_width="@dimen/dp_12"
+                    android:layout_height="@dimen/dp_12"
+                    android:src="@drawable/ic_forward"
+                    app:layout_constraintBottom_toBottomOf="@id/tv_more"
+                    app:layout_constraintLeft_toRightOf="@id/tv_more"
+                    app:layout_constraintTop_toTopOf="@id/tv_more" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rv_poet"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_385"
+                    android:layout_marginTop="@dimen/dp_10"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/tv_poet" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cl_read_poem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dp_10"
+                android:paddingHorizontal="@dimen/dp_25"
+                app:layout_constraintTop_toBottomOf="@id/cl_poet">
+
+                <TextView
+                    android:id="@+id/tv_read_poem"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="一起读诗"
+                    android:textColor="#000000"
+                    android:textSize="@dimen/sp_20"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_more2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:layout_marginRight="@dimen/dp_10"
+                    android:text="更多"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:layout_width="@dimen/dp_12"
+                    android:layout_height="@dimen/dp_12"
+                    android:src="@drawable/ic_forward"
+                    app:layout_constraintBottom_toBottomOf="@id/tv_more2"
+                    app:layout_constraintLeft_toRightOf="@id/tv_more2"
+                    app:layout_constraintTop_toTopOf="@id/tv_more2" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rv_read_poem"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/tv_read_poem" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/cl_poetry_lovers"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_254"
+                android:layout_marginTop="@dimen/dp_10"
+                android:paddingHorizontal="@dimen/dp_25"
+                app:layout_constraintTop_toBottomOf="@id/cl_read_poem">
+
+                <TextView
+                    android:id="@+id/tv_poetry_lovers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="诗词佳句"
+                    android:textColor="#000000"
+                    android:textSize="@dimen/sp_20"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tv_more3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:layout_marginRight="@dimen/dp_10"
+                    android:text="更多"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:layout_width="@dimen/dp_12"
+                    android:layout_height="@dimen/dp_12"
+                    android:src="@drawable/ic_forward"
+                    app:layout_constraintBottom_toBottomOf="@id/tv_more3"
+                    app:layout_constraintLeft_toRightOf="@id/tv_more3"
+                    app:layout_constraintTop_toTopOf="@id/tv_more3" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rv_poetry_lovers"
+                    android:layout_width="@dimen/dp_340"
+                    android:layout_height="@dimen/dp_385"
+                    android:layout_marginTop="@dimen/dp_10"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/tv_poetry_lovers" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_254"
+                android:layout_marginTop="@dimen/dp_10"
+                android:paddingHorizontal="@dimen/dp_25"
+                app:layout_constraintTop_toBottomOf="@id/cl_poetry_lovers">
+
+                <TextView
+                    android:id="@+id/tv_excellent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp_10"
+                    android:text="每周佳作"
+                    android:textColor="#000000"
+                    android:textSize="@dimen/sp_20"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rv_excellent"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_385"
+                    android:layout_marginTop="@dimen/dp_10"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/tv_excellent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_home"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:layout_marginBottom="@dimen/dp_20"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:tabIndicatorHeight="0dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
