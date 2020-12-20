@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu1" android:title="每日推荐" android:icon="@drawable/qei1"/>
+    <item android:id="@+id/menu2" android:title="飞花令"   android:icon="@drawable/pei2"/>
+    <item android:id="@+id/menu3" android:title="诗歌社群" android:icon="@drawable/pei3" />
+    <item android:id="@+id/menu4" android:title="排行榜"   android:icon="@drawable/pei4" />
+    <item android:id="@+id/menu5" android:title="会员专区" android:icon="@drawable/pei5"/>
+</menu>
