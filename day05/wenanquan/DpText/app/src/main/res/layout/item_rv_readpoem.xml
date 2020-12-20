@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_90">
+
+    <ImageView
+        android:src="@drawable/shan"
+        android:id="@+id/iv_header"
+        android:layout_width="@dimen/dp_75"
+        android:layout_height="@dimen/dp_75"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_15"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:text="写给秋天的诗"
+        android:textColor="#000000"
+        android:textSize="@dimen/sp_12"
+        app:layout_constraintLeft_toRightOf="@id/iv_header"
+        app:layout_constraintTop_toTopOf="@id/iv_header" />
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/dp_15"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:layout_marginTop="@dimen/dp_10"
+        android:maxEms="16"
+        android:singleLine="true"
+        android:text="秋风细雨，说一声，你好！一天的诗，从askgakgnaksgh"
+        android:textSize="@dimen/sp_12"
+        app:layout_constraintLeft_toRightOf="@id/iv_header"
+        app:layout_constraintTop_toBottomOf="@id/tv_title" />
+
+    <TextView
+        android:id="@+id/tv_author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:text="作者：墨梅"
+        app:layout_constraintBottom_toBottomOf="@id/iv_header"
+        app:layout_constraintLeft_toRightOf="@id/iv_header" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_yidu"
+        android:text="20人已读"
+        android:textColor="#93D1C7"
+        app:layout_constraintBottom_toBottomOf="@id/iv_header"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="@dimen/dp_10"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
