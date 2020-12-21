@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+   <androidx.core.widget.NestedScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+       <LinearLayout
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/search"
+        android:layout_marginLeft="@dimen/dp_20"
+        android:queryHint="输入诗人名字 诗歌关键字画画"
+        android:background="@drawable/shape"
+        android:layout_width="@dimen/dp_267"
+        android:layout_height="@dimen/dp_56"/>
+
+    <ImageView
+        android:layout_marginLeft="@dimen/dp_16"
+        android:src="@mipmap/ruli"
+        android:layout_width="@dimen/dp_31"
+        android:layout_height="@dimen/dp_56"/>
+
+    <ImageView
+        android:layout_marginLeft="@dimen/dp_10"
+        android:src="@mipmap/sou"
+        android:layout_width="@dimen/dp_31"
+        android:layout_height="@dimen/dp_56"/>
+</LinearLayout>
+
+    <ImageView
+        android:layout_marginTop="@dimen/dp_20"
+        android:id="@+id/img2"
+        android:src="@mipmap/youxi"
+        android:scaleType="fitXY"
+        android:layout_gravity="center"
+        android:layout_width="@dimen/dp_337"
+        android:layout_height="@dimen/dp_154"/>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_gravity="center"
+        android:layout_width="@dimen/dp_328"
+        android:layout_height="@dimen/dp_52"/>
+
+<LinearLayout
+    android:layout_marginTop="@dimen/dp_25"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/txt"
+        android:text="诗歌群PK"
+        android:textSize="@dimen/dp_20"
+        android:textColor="#000"
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="@dimen/dp_25"/>
+
+    <TextView
+        android:id="@+id/txt2"
+        android:text="事件"
+        android:layout_marginLeft="@dimen/dp_140"
+        android:layout_width="@dimen/dp_122"
+        android:layout_height="@dimen/dp_14"/>
+
+</LinearLayout>
+
+    <ImageView
+        android:layout_marginTop="@dimen/dp_20"
+        android:id="@+id/img3"
+        android:src="@mipmap/pk"
+        android:scaleType="fitXY"
+        android:layout_gravity="center"
+        android:layout_width="@dimen/dp_340"
+        android:layout_height="@dimen/dp_150"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/dp_20"
+        android:layout_width="@dimen/dp_340"
+        android:layout_height="@dimen/dp_40">
+        <Button
+            android:id="@+id/btn"
+            android:text="丁香诗社"
+            android:layout_marginLeft="@dimen/dp_40"
+            android:background="@drawable/shape2"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:id="@+id/btn2"
+            android:text="月季诗社"
+            android:layout_marginLeft="@dimen/dp_120"
+            android:textColor="#fff"
+            android:background="@drawable/shape3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="@dimen/dp_7"
+        android:id="@+id/txt3"
+        android:text="这两个社团你跟看好谁"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/txt4"
+        android:text="荣誉诗人"
+        android:textColor="#000"
+        android:textSize="@dimen/dp_20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="更多>"
+        android:layout_marginLeft="@dimen/dp_220"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
+
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/rel"
+               android:layout_gravity="center"
+               android:layout_width="@dimen/dp_347"
+               android:layout_height="@dimen/dp_184" />
+
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/txt5"
+            android:text="一起读诗"
+            android:textColor="#000"
+            android:textSize="@dimen/dp_20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:text="更多>"
+            android:layout_marginLeft="@dimen/dp_220"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/rel2"
+               android:layout_gravity="center"
+               android:layout_width="@dimen/dp_347"
+               android:layout_height="@dimen/dp_184"/>
+
+           <LinearLayout
+               android:layout_marginTop="@dimen/dp_10"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content">
+               <TextView
+                   android:id="@+id/txt6"
+                   android:text="诗词佳句"
+                   android:textColor="#000"
+                   android:textSize="@dimen/dp_20"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"/>
+
+               <TextView
+                   android:text="更多>"
+                   android:layout_marginLeft="@dimen/dp_220"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"/>
+           </LinearLayout>
+
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/rel3"
+               android:layout_gravity="center"
+               android:layout_width="@dimen/dp_347"
+               android:layout_height="@dimen/dp_184"/>
+           <LinearLayout
+               android:layout_marginTop="@dimen/dp_10"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent">
+               <TextView
+                   android:id="@+id/txt7"
+                   android:text="每周佳作"
+                   android:textColor="#000"
+                   android:textSize="@dimen/dp_20"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"/>
+           </LinearLayout>
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/rel4"
+               android:layout_gravity="center"
+               android:layout_width="@dimen/dp_347"
+               android:layout_height="@dimen/dp_184"/>
+       </LinearLayout>
+   </androidx.core.widget.NestedScrollView>
+</LinearLayout>
