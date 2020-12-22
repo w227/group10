@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="home">首页</string>
+    <string name="fa">发现</string>
+    <string name="shang">商城</string>
+    <string name="me">我的</string>
+</resources>
