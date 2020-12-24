@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mvp.ui.activity.BaiduMapActivity">
+
+    <RadioGroup
+        android:id="@+id/baidu_map_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff0000"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:layout_weight="1"
+            android:id="@+id/map_tb1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="普通地图" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:id="@+id/map_tb2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="卫星图" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:id="@+id/map_tb3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="交通图" />
+
+        <RadioButton
+            android:layout_weight="1"
+            android:id="@+id/map_tb4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="热力图" />
+
+    </RadioGroup>
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:clickable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/baidu_map_rg" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
