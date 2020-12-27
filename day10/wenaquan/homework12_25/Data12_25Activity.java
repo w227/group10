@@ -1,5 +1,6 @@
 package com.example.demo_mvp_2.homework12_25;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.text.Editable;
 import android.text.TextUtils;
@@ -7,6 +8,7 @@ import android.text.TextWatcher;
 import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.SearchView;
 import android.widget.TextView;
 
@@ -28,6 +30,7 @@ import com.example.demo_mvp_2.R;
 import com.example.demo_mvp_2.base.App;
 import com.example.demo_mvp_2.engine.adapter.HomeActRlAdapter;
 import com.example.demo_mvp_2.homework12_25.service.LocationService;
+import com.example.demo_mvp_2.mvp.ui.activity.MarkerClusterActivity;
 import com.example.demo_mvp_2.mvp.ui.activity.PoiSugSearchActivity;
 
 import java.util.List;
@@ -53,6 +56,8 @@ public class Data12_25Activity extends AppCompatActivity {
     RecyclerView rvCity;
     @BindView(R.id.rl_suggest)
     RecyclerView mRl;
+    @BindView(R.id.iv_title)
+    ImageView ivTitle;
     private Unbinder mBind;
     private SuggestionSearch mSuggestionSearch;
 
@@ -100,7 +105,6 @@ public class Data12_25Activity extends AppCompatActivity {
         mSuggestionSearch = SuggestionSearch.newInstance();
         mSuggestionSearch.setOnGetSuggestionResultListener(listener);
 
-        String node = etSearch.getText().toString();
         etSearch.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -111,13 +115,20 @@ public class Data12_25Activity extends AppCompatActivity {
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 mRl.setVisibility(View.VISIBLE);
                 mSuggestionSearch.requestSuggestion(new SuggestionSearchOption()
-                        .city(node)
+                        .city(tvCity.getText().toString())
                         .keyword(s + ""));
             }
 
             @Override
             public void afterTextChanged(Editable s) {
 
+            }
+        });
+
+        ivTitle.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Data12_25Activity.this, Data12_25_2Activity.class));
             }
         });
 
@@ -144,7 +155,7 @@ public class Data12_25Activity extends AppCompatActivity {
                             SuggestionResult.SuggestionInfo suggestionInfo = allSuggestions.get(pos);
 
                             etSearch.setText(suggestionInfo.key + suggestionInfo.district);
-
+                            mRl.setVisibility(View.GONE);
 
                         }
                     }
