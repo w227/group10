@@ -37,6 +37,7 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
 import butterknife.Unbinder;
 import butterknife.internal.Utils;
 
@@ -134,6 +135,7 @@ public class Data12_25Activity extends AppCompatActivity {
 
     }
 
+
     private List<SuggestionResult.SuggestionInfo> allSuggestions;
     private HomeActRlAdapter actRlAdapter;
     private OnGetSuggestionResultListener listener = new OnGetSuggestionResultListener() {
@@ -160,6 +162,8 @@ public class Data12_25Activity extends AppCompatActivity {
                         }
                     }
                 });
+            }else{
+                mRl.setVisibility(View.GONE);
             }
         }
     };
@@ -322,6 +326,8 @@ public class Data12_25Activity extends AppCompatActivity {
             }
         }
 
+
+
         @Override
         public void onConnectHotSpotMessage(String s, int i) {
             super.onConnectHotSpotMessage(s, i);
@@ -360,7 +366,7 @@ public class Data12_25Activity extends AppCompatActivity {
                     sb.append("定位失败，无法获取有效定位依据，请检查运营商网络或者Wi-Fi网络是否正常开启，尝试重新请求定位");
                     sb.append(diagnosticMessage);
                 } else if (diagnosticType == 6) {
-                    sb.append("定位失败，无法获取有效定位依据，请尝试插入一张sim卡或打开Wi-Fi重试");
+                    sb.append("定位失败，无法获取有效定位依据，请 尝试插入一张sim卡或打开Wi-Fi重试");
                     sb.append("\n" + diagnosticMessage);
                 } else if (diagnosticType == 7) {
                     sb.append("定位失败，飞行模式下无法获取有效定位依据，请关闭飞行模式重试");
