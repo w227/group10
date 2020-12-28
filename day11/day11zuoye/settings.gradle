@@ -1,0 +1,2 @@
+include ':app', ':jiguang-demo', ':jiguang'
+rootProject.name='day11'
