@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+        <Button
+            android:layout_width="@dimen/x280"
+            android:layout_height="@dimen/x100"
+            android:background="@drawable/select2"
+            android:id="@+id/bt1"/>
+        <Button
+            android:layout_width="@dimen/x280"
+            android:layout_height="@dimen/x100"
+            android:layout_marginLeft="@dimen/x160"
+            android:background="@drawable/select"
+            android:id="@+id/bt2"/>
+
+
+
+</LinearLayout>
