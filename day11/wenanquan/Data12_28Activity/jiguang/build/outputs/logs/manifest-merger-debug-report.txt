@@ -1,0 +1,545 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+	package
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:1-358:12
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:2:11-69
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:8:9-65
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:17:22-70
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:20:22-73
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:22:5-91
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:22:22-88
+uses-permission#android.permission.VIBRATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:24:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:25:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:29:5-85
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:29:22-82
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:30:5-89
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:30:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:31:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:33:22-74
+permission#${applicationId}.permission.MIPUSH_RECEIVE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:36:5-38:47
+	android:protectionLevel
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:38:9-44
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:37:9-66
+uses-permission#${applicationId}.permission.MIPUSH_RECEIVE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:39:5-82
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:39:22-79
+uses-permission#com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:42:5-86
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:42:22-83
+uses-permission#com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:43:5-85
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:43:22-82
+uses-sdk
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+	tools:overrideLibrary
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+	android:targetSdkVersion
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:48:5-83:33
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml
+application
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:85:5-357:19
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:89:9-100:20
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:91:13-36
+	android:theme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:90:13-62
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:93:13-99:29
+category#android.intent.category.DEFAULT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:94:17-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:94:27-73
+action#cn.jpush.android.ui.PopWinActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:96:17-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:96:25-74
+category#${JPUSH_PKGNAME}
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:98:17-61
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:98:27-58
+activity#cn.jpush.android.ui.PushActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:103:9-114:20
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:106:13-36
+	android:configChanges
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:105:13-63
+	android:theme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:107:13-60
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:104:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:108:13-113:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:109:17-75
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:109:25-72
+receiver#cn.jpush.android.service.SchedulerReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:118:9-120:40
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:120:13-37
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:119:13-70
+service#cn.jpush.android.service.MessagingIntentService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:123:9-83
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:123:18-80
+provider#cn.jpush.android.service.DataProvider
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:126:9-130:43
+	android:process
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:130:13-40
+	android:authorities
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:128:13-64
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:129:13-37
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:127:13-65
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:132:9-135:39
+	android:authorities
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:134:13-68
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:135:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:133:13-69
+activity#cn.jpush.android.service.JNotifyActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:138:9-148:20
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:140:13-36
+	android:theme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:142:13-72
+	android:taskAffinity
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:141:13-48
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:139:13-68
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:${applicationId}
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:143:13-147:29
+action#cn.jpush.android.intent.JNotifyActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:144:17-82
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:144:25-79
+category#${applicationId}
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:146:17-61
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:146:27-58
+receiver#cn.jpush.android.asus.AsusPushMessageReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:150:9-82
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:150:19-79
+service#cn.jpush.android.service.PushService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:156:9-167:19
+	android:process
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:160:13-40
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:158:13-35
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:159:13-37
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:157:13-64
+intent-filter#action:name:cn.jpush.android.intent.PUSH_TIME+action:name:cn.jpush.android.intent.PushService+action:name:cn.jpush.android.intent.REGISTER+action:name:cn.jpush.android.intent.REPORT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:161:13-166:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:162:17-75
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:162:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:163:17-73
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:163:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:164:17-78
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:164:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:165:17-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:165:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:171:9-180:19
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:173:13-35
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:174:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:172:13-66
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:${JPUSH_PKGNAME}
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:175:13-179:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:176:17-80
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:176:25-77
+activity#cn.jpush.android.service.DActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:182:9-193:20
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:184:13-35
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:185:13-36
+	android:theme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:187:13-72
+	android:taskAffinity
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:186:13-48
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:183:13-62
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:${JPUSH_PKGNAME}
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:188:13-192:29
+action#cn.jpush.android.intent.DActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:189:17-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:189:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:196:9-214:20
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:198:13-35
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:197:13-65
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:${JPUSH_PKGNAME}
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:199:13-202:29
+	android:priority
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:199:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:200:17-94
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:200:25-91
+intent-filter#action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:203:13-206:29
+action#android.intent.action.USER_PRESENT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:204:17-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:204:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:205:17-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:205:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:208:13-213:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:209:17-78
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:209:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:210:17-80
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:210:25-77
+data
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:212:17-50
+	android:scheme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:212:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:217:9-219:40
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:219:13-37
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:218:13-66
+service#com.xiaomi.push.service.XMJobService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:224:9-229:43
+	android:process
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:229:13-40
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:226:13-35
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:227:13-37
+	android:permission
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:228:13-69
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:225:13-64
+service#com.xiaomi.push.service.XMPushService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:230:9-233:43
+	android:process
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:233:13-40
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:232:13-35
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:231:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:234:9-237:39
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:236:13-35
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:237:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:235:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:238:9-240:38
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:240:13-35
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:239:13-70
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:242:9-250:20
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:244:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:243:13-83
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:245:13-249:29
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:251:9-258:20
+	android:process
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:254:13-40
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:253:13-37
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:252:13-74
+intent-filter#action:name:com.xiaomi.push.PING_TIMER
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:255:13-257:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:256:17-69
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:256:25-66
+receiver#cn.jpush.android.service.PluginXiaomiPlatformsReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:259:9-271:20
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:261:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:260:13-82
+intent-filter#action:name:com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:262:13-264:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:263:17-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:263:25-73
+intent-filter#action:name:com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:265:13-267:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:266:17-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:266:25-73
+intent-filter#action:name:com.xiaomi.mipush.ERROR
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:268:13-270:29
+action#com.xiaomi.mipush.ERROR
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:269:17-66
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:269:25-63
+meta-data#XIAOMI_APPKEY
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:273:9-275:48
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:275:13-45
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:274:13-41
+meta-data#XIAOMI_APPID
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:276:9-278:47
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:278:13-44
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:277:13-40
+service#cn.jpush.android.service.PluginHuaweiPlatformsService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:282:9-288:19
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:284:13-37
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:283:13-81
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:285:13-287:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:286:17-81
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:286:25-78
+service#cn.jpush.android.service.PluginOppoPushService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:294:9-300:19
+	android:permission
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:296:13-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:295:13-74
+intent-filter#action:name:com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:297:13-299:29
+action#com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:298:17-85
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:298:25-82
+service#com.heytap.msp.push.service.DataMessageCallbackService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:302:9-311:19
+	android:permission
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:304:13-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:303:13-82
+intent-filter#action:name:com.heytap.mcs.action.RECEIVE_MCS_MESSAGE+action:name:com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:306:13-310:29
+action#com.heytap.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:307:17-84
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:307:25-81
+action#com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:309:17-82
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:309:25-79
+meta-data#OPPO_APPKEY
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:312:9-314:46
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:314:13-43
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:313:13-39
+meta-data#OPPO_APPID
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:315:9-317:45
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:317:13-42
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:316:13-38
+meta-data#OPPO_APPSECRET
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:318:9-320:49
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:320:13-46
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:319:13-42
+receiver#cn.jpush.android.service.PluginVivoMessageReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:324:9-329:20
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:324:19-84
+intent-filter#action:name:com.vivo.pushclient.action.RECEIVE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:325:13-328:29
+action#com.vivo.pushclient.action.RECEIVE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:327:17-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:327:25-74
+service#com.vivo.push.sdk.service.CommandClientService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:330:9-332:39
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:332:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:331:13-74
+activity#com.vivo.push.sdk.LinkProxyClientActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:333:9-337:75
+	android:screenOrientation
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:336:13-49
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:335:13-37
+	android:theme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:337:13-72
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:334:13-69
+meta-data#com.vivo.push.api_key
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:339:9-341:46
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:341:13-43
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:340:13-49
+meta-data#com.vivo.push.app_id
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:342:9-344:45
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:344:13-42
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:343:13-48
+meta-data#JPUSH_CHANNEL
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:350:9-352:48
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:352:13-45
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:351:13-41
+meta-data#JPUSH_APPKEY
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:353:9-355:47
+	android:value
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:355:13-44
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\src\main\AndroidManifest.xml:354:13-40
