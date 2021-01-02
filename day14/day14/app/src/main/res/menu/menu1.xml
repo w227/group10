@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu1" android:icon="@drawable/select_sel" android:title="搜索" app:showAsAction="always"/>
+    <item android:id="@+id/menu2" android:icon="@drawable/search" android:title="消息" app:showAsAction="always"/>
+</menu>
