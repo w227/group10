@@ -1,0 +1,875 @@
+-- Merging decision tree log ---
+category#com.example.data12_28activity
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:34:17-61
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:42:17-70
+	android:name
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:34:27-58
+manifest
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.kinkoi:materialsearchview:1.4.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4221568c09c1c3fcfd8f73f0200cbf5d\jetified-materialsearchview-1.4.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3fa4c95847d0ac6a465cad219580904e\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-328:12
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:2:1-31:12
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4f3b75d0905a9879436adfbaedd0c774\jetified-material-calendarview-1.4.3\AndroidManifest.xml:2:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e4b23f27b516885f30f88745bd59df16\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4e9f5aa67e6d953a5b1a5660361b2120\jetified-banner-1.4.10\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3335bac9999322609106cdfe8398dae2\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\8b75a198c63daf512e8348b47c22b6d8\jetified-butterknife-10.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cbf457ded7854e69f4f46e44b08d2ac7\jetified-SmartRefreshLayout-1.1.0\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f2bebeca849b3c1fc0bf348a9d3c5482\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a6bb093842f40747194d568295ee990f\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\dee56812972f65c48f33f011a0d23568\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\88be088d209079921c916671a0145d8b\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\ec19a28b06e409c7057cac89d94066cd\jetified-butterknife-runtime-10.2.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\78ecae9c2f22493c6a91e24a1a2d4820\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\2833ccf74467ed201bb9e8973fbcecdb\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\1352209ffe6d7d5b9f9bddb35648d9f5\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\128017c60b2e1edc68cc98116b829d19\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\db2593b847e274c6b1e16df362f734f1\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\054204406b27658dc74d8b19f547bed5\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\6e0bbf23856e3e10e3514a4e9cc95fa1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\8a5e36edf0bf6877cab03a462d62c58d\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-67
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-79
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:6:5-86
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:6:22-83
+application
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:7:5-66:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.kinkoi:materialsearchview:1.4.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4221568c09c1c3fcfd8f73f0200cbf5d\jetified-materialsearchview-1.4.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.kinkoi:materialsearchview:1.4.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4221568c09c1c3fcfd8f73f0200cbf5d\jetified-materialsearchview-1.4.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3fa4c95847d0ac6a465cad219580904e\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3fa4c95847d0ac6a465cad219580904e\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:11:5-18:19
+MERGED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:11:5-18:19
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:5-326:19
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:5-326:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:13:5-29:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:13:5-29:19
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4f3b75d0905a9879436adfbaedd0c774\jetified-material-calendarview-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4f3b75d0905a9879436adfbaedd0c774\jetified-material-calendarview-1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3335bac9999322609106cdfe8398dae2\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3335bac9999322609106cdfe8398dae2\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cbf457ded7854e69f4f46e44b08d2ac7\jetified-SmartRefreshLayout-1.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cbf457ded7854e69f4f46e44b08d2ac7\jetified-SmartRefreshLayout-1.1.0\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\128017c60b2e1edc68cc98116b829d19\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\128017c60b2e1edc68cc98116b829d19\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:11:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.data12_28activity.MainActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:19:27-74
+receiver#com.example.data12_28activity.necessary.MyReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:25:9-36:20
+	android:enabled
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:27:13-35
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:26:13-49
+intent-filter#action:name:cn.jpush.android.intent.CONNECTION+action:name:cn.jpush.android.intent.MESSAGE_RECEIVED+action:name:cn.jpush.android.intent.NOTIFICATION_OPENED+action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED+action:name:cn.jpush.android.intent.REGISTRATION+category:name:com.example.data12_28activity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:28:13-35:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:29:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:30:17-83
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:30:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:31:17-88
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:31:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:32:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:33:25-74
+receiver#com.example.data12_28activity.necessary.PushMessageReceiver
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:39:9-44:20
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:39:19-64
+intent-filter#action:name:cn.jpush.android.intent.RECEIVE_MESSAGE+category:name:com.example.data12_28activity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:40:13-43:29
+action#cn.jpush.android.intent.RECEIVE_MESSAGE
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:41:25-79
+activity#com.example.data12_28activity.OpenClickActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:exported
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:47:13-46
+intent-filter#action:name:android.intent.action.VIEW+action:name:com.example.jpushdemo.OpenClickActivity+category:name:android.intent.category.DEFAULT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.VIEW
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.DEFAULT
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:51:27-73
+action#com.example.jpushdemo.OpenClickActivity
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:52:17-82
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:52:25-79
+service#com.example.data12_28activity.utils.PushService
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:58:9-64:19
+	android:process
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:60:13-40
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:59:13-46
+intent-filter#action:name:cn.jiguang.user.service.action
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:61:13-63:29
+action#cn.jiguang.user.service.action
+ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:62:17-73
+	android:name
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml:62:25-70
+uses-sdk
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3650ec8bf0dcc8ccaa9d86d2cec22c9f\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kinkoi:materialsearchview:1.4.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4221568c09c1c3fcfd8f73f0200cbf5d\jetified-materialsearchview-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kinkoi:materialsearchview:1.4.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4221568c09c1c3fcfd8f73f0200cbf5d\jetified-materialsearchview-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3fa4c95847d0ac6a465cad219580904e\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3fa4c95847d0ac6a465cad219580904e\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\be6327719512c19af6e3dfcc948c3a09\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-10:1285
+MERGED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-10:1285
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4f3b75d0905a9879436adfbaedd0c774\jetified-material-calendarview-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4f3b75d0905a9879436adfbaedd0c774\jetified-material-calendarview-1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e4b23f27b516885f30f88745bd59df16\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e4b23f27b516885f30f88745bd59df16\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4e9f5aa67e6d953a5b1a5660361b2120\jetified-banner-1.4.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4e9f5aa67e6d953a5b1a5660361b2120\jetified-banner-1.4.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3335bac9999322609106cdfe8398dae2\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3335bac9999322609106cdfe8398dae2\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\8b75a198c63daf512e8348b47c22b6d8\jetified-butterknife-10.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\8b75a198c63daf512e8348b47c22b6d8\jetified-butterknife-10.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cbf457ded7854e69f4f46e44b08d2ac7\jetified-SmartRefreshLayout-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cbf457ded7854e69f4f46e44b08d2ac7\jetified-SmartRefreshLayout-1.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f2bebeca849b3c1fc0bf348a9d3c5482\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f2bebeca849b3c1fc0bf348a9d3c5482\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a6bb093842f40747194d568295ee990f\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a6bb093842f40747194d568295ee990f\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\96f63f4306f0fc56c140d73176dc3310\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\1e931abee3afbede18629b7ccd33d0ef\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\dee56812972f65c48f33f011a0d23568\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\dee56812972f65c48f33f011a0d23568\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\3e66fdbb8aadd34180980691833492b3\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f082c57b244577a22e1236d38388ce52\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\bbe13d8129bba81257bd6436c2b34ccd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\88be088d209079921c916671a0145d8b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\88be088d209079921c916671a0145d8b\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\ec19a28b06e409c7057cac89d94066cd\jetified-butterknife-runtime-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\ec19a28b06e409c7057cac89d94066cd\jetified-butterknife-runtime-10.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e492391935922ce61c196b0901270ddd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\e62f873cf4263d40c7b89017e7a83d01\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\78ecae9c2f22493c6a91e24a1a2d4820\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\78ecae9c2f22493c6a91e24a1a2d4820\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\cd02317c23e662d0fa4ab88d0d0916d7\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\10fcddba391b31bd86d702ee5aeb2035\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\2833ccf74467ed201bb9e8973fbcecdb\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\2833ccf74467ed201bb9e8973fbcecdb\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a22b9bda8912dc5b60b669716d09acf1\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\a3ff52c02bd8c6ecf6b5c868009ecb0c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\1352209ffe6d7d5b9f9bddb35648d9f5\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\1352209ffe6d7d5b9f9bddb35648d9f5\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\54972eed75d5a0ae7261aba7ffc821e2\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\93091c25d5713cca58ce2e2ecdac42b4\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\395caf503a19363977c06465a7c114a5\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\b1af4f2bb3cdb8a270b23f3dd207998b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\128017c60b2e1edc68cc98116b829d19\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\128017c60b2e1edc68cc98116b829d19\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\db2593b847e274c6b1e16df362f734f1\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\db2593b847e274c6b1e16df362f734f1\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\f21ecb78568f62b9cfdf7ce8b84f47c1\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\65c3d4650b10035e3c16dbbe7955e172\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\98b1926715faee64bbfa9c00b2dc79e4\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\150913b578eabd8badf12d4daa286895\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\4e4ddc58b098620f1f74a1665263ff73\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\054204406b27658dc74d8b19f547bed5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\054204406b27658dc74d8b19f547bed5\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\6e0bbf23856e3e10e3514a4e9cc95fa1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\6e0bbf23856e3e10e3514a4e9cc95fa1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\6a6af4ea2fadaa66c773f3ffe79910a7\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\8a5e36edf0bf6877cab03a462d62c58d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\8a5e36edf0bf6877cab03a462d62c58d\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\abfb1986835d7863ad588927944dd5ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\88958e78a03a39da36d379d2c8b6a4b0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-1282
+	android:targetSdkVersion
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		ADDED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+		INJECTED from W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\app\src\main\AndroidManifest.xml
+activity#com.github.dfqin.grantor.PermissionActivity
+ADDED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:15:9-17:55
+	android:theme
+		ADDED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:17:13-52
+	android:name
+		ADDED from [com.github.dfqin:grantor:2.5] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d33705d286bdb575b7a3f5767dd839ef\jetified-grantor-2.5\AndroidManifest.xml:16:13-71
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-65
+permission#com.example.data12_28activity.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-15:47
+	android:protectionLevel
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-65
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
+uses-permission#com.example.data12_28activity.permission.JPUSH_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:22-73
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-91
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:22-88
+uses-permission#android.permission.VIBRATE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-78
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:5-76
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:33:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:5-79
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:5-85
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:35:22-82
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-89
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:5-79
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:37:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:5-68
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:38:22-65
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:5-77
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:22-74
+permission#${applicationId}.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:5-44:47
+	android:protectionLevel
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-44
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-66
+permission#com.example.data12_28activity.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:5-44:47
+	android:protectionLevel
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:44:9-44
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:43:9-66
+uses-permission#${applicationId}.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-82
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:22-79
+uses-permission#com.example.data12_28activity.permission.MIPUSH_RECEIVE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-82
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:22-79
+uses-permission#com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:5-86
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:11:5-86
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:11:5-86
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:49:22-83
+uses-permission#com.heytap.mcs.permission.RECIEVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:5-85
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:50:22-82
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:56:9-67:20
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:58:13-36
+	android:theme
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:57:13-62
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-66:29
+intent-filter#action:name:cn.jpush.android.ui.PopWinActivity+category:name:android.intent.category.DEFAULT+category:name:com.example.data12_28activity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:60:13-66:29
+action#cn.jpush.android.ui.PopWinActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:63:25-74
+category#${JPUSH_PKGNAME}
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:17-61
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:65:27-58
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:70:9-81:20
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:73:13-36
+	android:configChanges
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:72:13-63
+	android:theme
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:74:13-60
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:71:13-60
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:${JPUSH_PKGNAME}+category:name:android.intent.category.DEFAULT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-80:29
+intent-filter#action:name:cn.jpush.android.ui.PushActivity+category:name:android.intent.category.DEFAULT+category:name:com.example.data12_28activity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:75:13-80:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:17-75
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:76:25-72
+receiver#cn.jpush.android.service.SchedulerReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:85:9-87:40
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:87:13-37
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:86:13-70
+service#cn.jpush.android.service.MessagingIntentService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:9-83
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:90:18-80
+provider#cn.jpush.android.service.DataProvider
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:93:9-97:43
+	android:process
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:97:13-40
+	android:authorities
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:95:13-64
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:96:13-37
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:94:13-65
+provider#cn.jpush.android.service.DownloadProvider
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:99:9-102:39
+	android:authorities
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:101:13-68
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:102:13-36
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:100:13-69
+activity#cn.jpush.android.service.JNotifyActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:105:9-115:20
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:107:13-36
+	android:theme
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:109:13-72
+	android:taskAffinity
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:108:13-48
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:106:13-68
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:${applicationId}
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-114:29
+intent-filter#action:name:cn.jpush.android.intent.JNotifyActivity+category:name:com.example.data12_28activity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:110:13-114:29
+action#cn.jpush.android.intent.JNotifyActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:17-82
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:111:25-79
+category#${applicationId}
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:113:17-61
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:113:27-58
+receiver#cn.jpush.android.asus.AsusPushMessageReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:9-82
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:117:19-79
+service#cn.jpush.android.service.PushService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:124:9-135:19
+	android:process
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:128:13-40
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:126:13-35
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:127:13-37
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:125:13-64
+intent-filter#action:name:cn.jpush.android.intent.PUSH_TIME+action:name:cn.jpush.android.intent.PushService+action:name:cn.jpush.android.intent.REGISTER+action:name:cn.jpush.android.intent.REPORT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:129:13-134:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:17-75
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:130:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:17-73
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:131:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:132:17-78
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:132:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:133:17-76
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:133:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:139:9-148:19
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:141:13-35
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:142:13-36
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:140:13-66
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:${JPUSH_PKGNAME}
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:143:13-147:29
+intent-filter#action:name:cn.jpush.android.intent.DaemonService+category:name:com.example.data12_28activity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:143:13-147:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:144:17-80
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:144:25-77
+activity#cn.jpush.android.service.DActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:150:9-161:20
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:152:13-35
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:153:13-36
+	android:theme
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:155:13-72
+	android:taskAffinity
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:154:13-48
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:151:13-62
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:${JPUSH_PKGNAME}
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:156:13-160:29
+intent-filter#action:name:cn.jpush.android.intent.DActivity+category:name:com.example.data12_28activity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:156:13-160:29
+action#cn.jpush.android.intent.DActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:157:17-76
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:157:25-73
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:164:9-182:20
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:166:13-35
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:165:13-65
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:${JPUSH_PKGNAME}
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:167:13-170:29
+	android:priority
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:167:28-51
+intent-filter#action:name:cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+category:name:com.example.data12_28activity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:167:13-170:29
+	android:priority
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:167:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:168:17-94
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:168:25-91
+intent-filter#action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:171:13-174:29
+action#android.intent.action.USER_PRESENT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:172:17-77
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:172:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:173:17-79
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:173:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:176:13-181:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:177:17-78
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:177:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:178:17-80
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:178:25-77
+data
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:180:17-50
+	android:scheme
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:180:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:185:9-187:40
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:187:13-37
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:186:13-66
+service#com.xiaomi.push.service.XMJobService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:192:9-197:43
+	android:process
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:197:13-40
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:194:13-35
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:195:13-37
+	android:permission
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:196:13-69
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:193:13-64
+service#com.xiaomi.push.service.XMPushService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:198:9-201:43
+	android:process
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:201:13-40
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:200:13-35
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:199:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:202:9-205:39
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:204:13-35
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:205:13-36
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:203:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:206:9-208:38
+	android:enabled
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:208:13-35
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:207:13-70
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:210:9-218:20
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:212:13-36
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:211:13-83
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:213:13-217:29
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:219:9-226:20
+	android:process
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:222:13-40
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:221:13-37
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:220:13-74
+intent-filter#action:name:com.xiaomi.push.PING_TIMER
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:223:13-225:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:224:17-69
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:224:25-66
+receiver#cn.jpush.android.service.PluginXiaomiPlatformsReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:227:9-239:20
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:229:13-36
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:228:13-82
+intent-filter#action:name:com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:230:13-232:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:231:17-76
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:231:25-73
+intent-filter#action:name:com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:233:13-235:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:234:17-76
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:234:25-73
+intent-filter#action:name:com.xiaomi.mipush.ERROR
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:236:13-238:29
+action#com.xiaomi.mipush.ERROR
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:237:17-66
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:237:25-63
+meta-data#XIAOMI_APPKEY
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:241:9-243:48
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:243:13-45
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:242:13-41
+meta-data#XIAOMI_APPID
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:244:9-246:47
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:246:13-44
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:245:13-40
+service#cn.jpush.android.service.PluginHuaweiPlatformsService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:251:9-257:19
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:253:13-37
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:252:13-81
+intent-filter#action:name:com.huawei.push.action.MESSAGING_EVENT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:254:13-256:29
+action#com.huawei.push.action.MESSAGING_EVENT
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:255:17-81
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:255:25-78
+service#cn.jpush.android.service.PluginOppoPushService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:262:9-268:19
+	android:permission
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:264:13-77
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:263:13-74
+intent-filter#action:name:com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:265:13-267:29
+action#com.coloros.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:266:17-85
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:266:25-82
+service#com.heytap.msp.push.service.DataMessageCallbackService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:270:9-277:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:21:9-28:19
+MERGED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:21:9-28:19
+	android:permission
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:272:13-77
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:271:13-82
+intent-filter#action:name:com.heytap.mcs.action.RECEIVE_MCS_MESSAGE+action:name:com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:273:13-276:29
+action#com.heytap.mcs.action.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:274:17-84
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:274:25-81
+action#com.heytap.msp.push.RECEIVE_MCS_MESSAGE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:275:17-82
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:275:25-79
+meta-data#OPPO_APPKEY
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:278:9-280:46
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:280:13-43
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:279:13-39
+meta-data#OPPO_APPID
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:281:9-283:45
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:283:13-42
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:282:13-38
+meta-data#OPPO_APPSECRET
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:284:9-286:49
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:286:13-46
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:285:13-42
+receiver#cn.jpush.android.service.PluginVivoMessageReceiver
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:291:9-297:20
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:291:19-84
+intent-filter#action:name:com.vivo.pushclient.action.RECEIVE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:292:13-296:29
+action#com.vivo.pushclient.action.RECEIVE
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:295:17-77
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:295:25-74
+service#com.vivo.push.sdk.service.CommandClientService
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:299:9-301:39
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:301:13-36
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:300:13-74
+activity#com.vivo.push.sdk.LinkProxyClientActivity
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:303:9-307:75
+	android:screenOrientation
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:306:13-49
+	android:exported
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:305:13-37
+	android:theme
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:307:13-72
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:304:13-69
+meta-data#com.vivo.push.api_key
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:309:9-311:46
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:311:13-43
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:310:13-49
+meta-data#com.vivo.push.app_id
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:312:9-314:45
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:314:13-42
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:313:13-48
+meta-data#JPUSH_CHANNEL
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:319:9-321:48
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:321:13-45
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:320:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:322:9-324:47
+	android:value
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:324:13-44
+	android:name
+		ADDED from [:jiguang] W:\jiyun\WuLianWang\p7\homeWork\Data12_28Activity\jiguang\build\intermediates\library_manifest\debug\AndroidManifest.xml:323:13-40
+service#com.heytap.msp.push.service.CompatibleDataMessageCallbackService
+ADDED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:14:9-20:19
+	android:permission
+		ADDED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:16:13-77
+	android:name
+		ADDED from [:com.heytap.msp-push-2.1.0:] C:\Users\23589\.gradle\caches\transforms-2\files-2.1\d00fb15de33fc28e27b080443a2ba776\jetified-com.heytap.msp-push-2.1.0\AndroidManifest.xml:15:13-92
