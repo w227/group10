@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itme1" android:icon="@drawable/select1" android:title="首页"/>
+    <item android:id="@+id/itme2" android:icon="@drawable/select2" android:title="选课"/>
+    <item android:id="@+id/itme3" android:icon="@drawable/select3" android:title="直播"/>
+    <item android:id="@+id/itme4" android:icon="@drawable/select4" android:title="我的"/>
+</menu>
